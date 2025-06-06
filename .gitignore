@@ -1,0 +1,14 @@
+target/
+.gradle
+build/
+.vscode/*
+!.vscode/launch.json
+!.vscode/tasks.json
+**/.DS_Store
+.gradle/
+bin/
+obj/
+.classpath
+.project
+.settings
+.idea
